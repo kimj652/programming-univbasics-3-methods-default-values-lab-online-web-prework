@@ -1,4 +1,4 @@
 # Your code here
 def meal_choice(veg1,veg2,protein="meat")
-  puts "A plate of #{protein} with #{veg1} and #{veg2}." so that you can also see what you've ordered.
+  puts "A plate of #{protein} with #{veg1} and #{veg2}."
 end
